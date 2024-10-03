@@ -1,0 +1,2 @@
+This repository is for practicing adding text files.
+Hello, whoever is reading this!
